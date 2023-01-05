@@ -19,3 +19,7 @@ dependencies {
 	        implementation 'com.github.abhineshchandra1234:ToastLibrary:Tag'
 	}
 ```
+
+---
+### References
+- [Toast Lib](https://www.youtube.com/watch?v=dah4ZP3eOVk)
